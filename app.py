@@ -1,8 +1,8 @@
 from flask import Flask, render_template, request, jsonify
 import pyttsx3
 import wikipedia
-import pywhatkit
-import pyautogui
+#import pywhatkit
+#import pyautogui
 import webbrowser
 import datetime
 import smtplib
